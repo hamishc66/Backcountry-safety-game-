@@ -1,0 +1,7 @@
+{
+  "name": "Backcountry Safety Mini-Game",
+  "description": "An interactive training simulation for backcountry decision-making using Gemini models for realistic scenarios, immediate feedback, and deep safety analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
